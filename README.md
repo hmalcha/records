@@ -1,6 +1,6 @@
 # Praktikumsprotokolle
 
-In diesem Repository finden sich gesammelte Protokolle aller drei Praktika. Leider ist das Archiv sehr unvollständig. Die Protokolle sind aus den Jahren 2012 bis 2016 und damit wesentlich aktueller als andere Quellen. Ich freue mich wenn du hilfst das Repository auf dem neusten Stand zu halten und mir deine Protokolle per Mail schickst, damit ich sie hier zur Verfügung stellen kann. Meine Mail Adresse findest du in meinem Profil.
+In diesem Repository finden sich gesammelte Protokolle aller drei Praktika. Leider ist das Archiv sehr unvollständig. Die Protokolle sind aus den Jahren 2012 bis 2016 und damit wesentlich aktueller als andere Quellen. Ich freue mich wenn du hilfst das Repository auf dem neusten Stand zu halten und mir deine Protokolle per Mail schickst, damit ich sie hier zur Verfügung stellen kann. Meine Mail Adresse findest du in meinem Profil. So gibt es hier hoffentlich bald aktuelle Protokolle aller Versuche.
 
 GitHub ist nicht besonders gut mit PDF Dateien. Am besten lädst du das gewünschte PDF (oder gleich das ganze Repository) herunter und schaust es dir dann an.
 
